@@ -32,7 +32,7 @@
 
 ### :rocket: You can add in VS extensions ESLint - it indicates errors in the code before runing eslint with command ``npx eslint .``
 
-## :test_tube: Testing installation and configuration with Jest
+## :test_tube: Jest installation and configuration
 You can performed installation according to descriprion here :arrow_right: [read](https://www.npmjs.com/package/ts-jest)
 
 For mocking, I have installed ``jest-mock`` :arrow_right: [read](https://github.com/jestjs/jest).
